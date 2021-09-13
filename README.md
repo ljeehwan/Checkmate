@@ -4,7 +4,7 @@
 > 외국인 유학생을 위한 과제 첨삭 서비스 체크메이트!      
 > 과제나 논문을 Check ✅ 해주는 당신만의 Mate 💟 
 > 
-> 시연영상 : https://www.youtube.com/watch?v=MSSOA5zNOoM&list=PLfEnjHuUAlgXHDPU63NMa2WVthNbfOAzB
+> 시연영상 : https://youtu.be/MSSOA5zNOoM
 <br />
 개발 기간 2021.04.12 ~ 2021.05.21
 <br />
